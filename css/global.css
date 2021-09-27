@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
-    font-style: normal; 
+    font-style: normal;
     font-weight: bold;
 }
 
@@ -19,13 +19,13 @@ a {
 }
 
 .wrapper {
-    padding: 25px 0;
+    padding: 1.563rem 0;
 }
 
 body > header {
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
     background: white;
-    box-shadow: 1px 0px 8px rgb(200, 200, 200);
+    box-shadow: 0.063rem 0rem 0.5rem rgb(200, 200, 200);
 }
 
 header .logo-search form  {
@@ -37,9 +37,9 @@ header .user {
 }
 
 header .user a {
-    font-size: 13px;
+    font-size: 0.813rem;
     color: #89949b;
-    padding-top: 5px;
+    padding-top: 0.313rem;
 }
 
 main h2 {
